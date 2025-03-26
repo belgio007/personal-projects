@@ -28,7 +28,7 @@ These features allow the user to customize the search according to their needs, 
 If you have any questions or would like to collaborate, feel free to reach out:  
 
 📧 Email: federicopugliese0@gmail.com  
-💼 LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/federico-pugliese-fs/))  
+💼 LinkedIn: [((https://www.linkedin.com/in/federico-pugliese-fs/))]
 
 ---
 
